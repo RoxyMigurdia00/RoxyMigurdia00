@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**RoxyMigurdia00/RoxyMigurdia00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About ME 💬 :
+### × I'm 17 years old from Indonesia
 
-Here are some ideas to get you started:
+### × Learning :
+- 💻 Python, C, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### × Hobbies :
+- ✨ Watching Anime
+- ✨ Playing Game🗿
+
+### × On Time:
+- ⏰ If internet quota is available🗿
+
+### × Contact Me:
+- Telegram: t.me/ahmadaarifky
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=RoxyMigurdia00&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
