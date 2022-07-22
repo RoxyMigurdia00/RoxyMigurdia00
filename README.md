@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 # About ME 💬 :
-### × I'm 17 years old from Indonesia
+### × I'm 18 years old from Indonesia
 
 ### × Learning :
 - 💻 Python, C, C++
@@ -14,7 +14,7 @@
 - ⏰ If internet quota is available🗿
 
 ### × Contact Me:
-- Telegram: t.me/ahmadaarifky
+- Telegram: t.me/roxymigurdia17
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
