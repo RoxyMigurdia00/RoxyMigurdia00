@@ -5,6 +5,7 @@
 
 ### × Learning :
 - 💻 Python, C, C++
+- HTML. CSS
 
 ### × Hobbies :
 - ✨ Watching Anime
